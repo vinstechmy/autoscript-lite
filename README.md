@@ -3,6 +3,30 @@
 <hr>
 🔱 Autoscripts-Lite Edition By Vinstechmy (FREE !)🔱
 <h2><hr>
+
+## ⏩ HOW TO FIX WIREGUARD NOT RUNNING IN DEBIAN OS ⏪
+<b>
+CARA FIX WIREGUARD "NOT RUNNING" DI DEBIAN OS
+<br>
+1.<br>
+sysctemctl stop wg-quick@wg0<br>
+2.<br>
+apt install sudo lsb-release -y<br>
+3.<br>
+echo "deb http://deb.debian.org/debian $(lsb_release -sc)-backports main" | sudo tee /etc/apt/sources.list.d/backports.list<br>
+4.<br>
+sudo apt update<br>
+5.<br>
+sudo apt -y --no-install-recommends install net-tools iproute2 openresolv dnsutils linux-headers-$(uname -r)<br>
+6.<br>
+sudo apt --no-install-recommends install wireguard-tools wireguard-dkms<br>
+7.<br>
+sysctemctl start wg-quick@wg0<br>
+8.<br>
+sysctemctl enable wg-quick@wg0<br>
+9.<br>
+status (pastikan wireguard dah running)<br>
+<b>
   
 ## ⏩ AUTOSCRIPTS-LITE V1 DETAILS ⏪
 <b>
