@@ -40,7 +40,7 @@ status (pastikan wireguard dah running)<br>
 <br>
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/V1/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
 <br>
-♦️ License Key : VinstechmyFreeAutoscriptsLite
+♦️ License Key : VinstechmyFreeAutoscriptsLite<br>
 <br>
 ♦️ Autoscript-Lite V1 Source :: RM50 (PM Telegram t.me/vinstechmy)
 <br>
