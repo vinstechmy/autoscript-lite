@@ -121,7 +121,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <br>
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/138227271-758e2d03-4233-4e8f-93a8-caa2a64c553d.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/146372147-6d47ef5a-9364-4b4a-8638-72e3dc430f32.png" width="400" title="Autoscript-Lite">
 </p>
 
 ## ⏩ AUTOSCRIPTS-LITE V2 EXAMPLE ⏪
