@@ -6,12 +6,12 @@
 
 ## ⏩ AUTOSCRIPT-LITE V1 SOURCE ⏪
 <b>
+♦️ Autoscript-Lite V1 Source :: RM50
 <br>
-♦️ Autoscript-Lite V1 Source :: RM50<br>
-<br>
-♦️ PM Telegram :: t.me/vinstechmy ♦️<br>
+♦️ PM Telegram :: t.me/vinstechmy ♦️
 <br>
 <b>
+
 ## ⏩ HOW TO FIX WIREGUARD NOT RUNNING IN DEBIAN OS ⏪
 <b>
 CARA FIX WIREGUARD "NOT RUNNING" DI DEBIAN OS
