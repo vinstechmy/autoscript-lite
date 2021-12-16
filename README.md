@@ -4,6 +4,14 @@
 🔱 Autoscripts-Lite Edition By Vinstechmy (FREE !)🔱
 <h2><hr>
 
+## ⏩ AUTOSCRIPT-LITE V1 SOURCE ⏪
+<b>
+<br>
+♦️ Autoscript-Lite V1 Source :: RM50<br>
+<br>
+♦️ PM Telegram :: t.me/vinstechmy ♦️<br>
+<br>
+<b>
 ## ⏩ HOW TO FIX WIREGUARD NOT RUNNING IN DEBIAN OS ⏪
 <b>
 CARA FIX WIREGUARD "NOT RUNNING" DI DEBIAN OS
@@ -40,9 +48,7 @@ status (pastikan wireguard dah running)<br>
 <br>
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/autoscript-lite/main/V1/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh <br>
 <br>
-♦️ License Key : VinstechmyFreeAutoscriptsLite<br>
-<br>
-♦️ Autoscript-Lite V1 Source :: RM50 (PM Telegram :: t.me/vinstechmy)
+♦️ License Key : VinstechmyFreeAutoscriptsLite
 <br>
 </b>
   
