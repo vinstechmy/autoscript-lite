@@ -6,9 +6,9 @@
 
 ## ⏩ AUTOSCRIPT-LITE V1 SOURCE ⏪
 <b>
-♦️ Autoscript-Lite V1 Source :: RM50
+💵 Autoscript-Lite V1 Source :: RM50 Only 💵
 <br>
-♦️ PM Telegram :: t.me/vinstechmy ♦️
+♦️ PM Telegram :: t.me/vinstechmy
 <br>
 <b>
 
