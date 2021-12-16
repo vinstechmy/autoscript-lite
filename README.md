@@ -42,7 +42,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <br>
 ♦️ License Key : VinstechmyFreeAutoscriptsLite<br>
 <br>
-♦️ Autoscript-Lite V1 Source :: RM50 (PM Telegram t.me/vinstechmy)
+♦️ Autoscript-Lite V1 Source :: RM50 (PM Telegram :: t.me/vinstechmy)
 <br>
 </b>
   
