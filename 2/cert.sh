@@ -8,7 +8,7 @@ echo ""
 echo start
 sleep 0.5
 source /var/lib/premium-script/ipvps.conf
-domain=$IP
+domain=$(cat /etc/v2ray/domain)
 systemctl stop xray-mini@vless-direct
 systemctl stop xray-mini@vless-splice
 systemctl disable xray-mini@vless-direct
@@ -18,6 +18,12 @@ systemctl stop v2ray@none
 systemctl stop v2ray@vless
 systemctl stop v2ray@vnone
 systemctl stop trojan
+cd /root/
+wget -O acme.sh https://raw.githubusercontent.com/acmesh-official/acme.sh/master/acme.sh
+bash acme.sh --install
+rm acme.sh
+cd .acme.sh
+bash acme.sh --register-account -m janda69@gmail.com
 /root/.acme.sh/acme.sh --issue -d $domain --standalone -k ec-256
 ~/.acme.sh/acme.sh --installcert -d $domain --fullchainpath /etc/v2ray/v2ray.crt --keypath /etc/v2ray/v2ray.key --ecc
 systemctl enable xray-mini@vless-direct
@@ -31,7 +37,6 @@ systemctl start v2ray@none
 systemctl start v2ray@vless
 systemctl start v2ray@vnone
 systemctl start trojan
-/root/.acme.sh/acme.sh --i
 echo Done
 sleep 0.5
 clear 
