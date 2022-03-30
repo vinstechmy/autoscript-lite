@@ -23,7 +23,7 @@ wget -O acme.sh https://raw.githubusercontent.com/acmesh-official/acme.sh/master
 bash acme.sh --install
 rm acme.sh
 cd .acme.sh
-bash acme.sh --register-account -m janda69@gmail.com
+bash acme.sh --register-account -m vinstechmyproject@gmail.com
 /root/.acme.sh/acme.sh --issue -d $domain --standalone -k ec-256
 ~/.acme.sh/acme.sh --installcert -d $domain --fullchainpath /etc/v2ray/v2ray.crt --keypath /etc/v2ray/v2ray.key --ecc
 systemctl enable xray-mini@vless-direct
