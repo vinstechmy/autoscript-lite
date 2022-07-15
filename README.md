@@ -4,9 +4,9 @@
 🔱 Autoscripts-Lite Edition By Vinstechmy (FREE !)🔱
 <h2><hr>
 
-## ⏩ AUTOSCRIPT-LITE V1 SOURCE ⏪
+## ⏩ TAKE NOTE !! ⏪
 <b>
-💵 Autoscript-Lite V1 Source :: RM50 Only 💵
+SELEPAS SELESAI INSTALL AUTOSCRIPT SILA RENEW DOMAIN CERTIFICATE (MENU NO 7)
 <br>
 ♦️ PM Telegram :: t.me/vinstechmy
 <br>
