@@ -8,7 +8,6 @@
 <b>
 SELEPAS SELESAI INSTALL AUTOSCRIPT SILA RENEW DOMAIN CERTIFICATE (MENU NO 7)
 <br>
-♦️ PM Telegram :: t.me/vinstechmy
 <br>
 <b>
 
